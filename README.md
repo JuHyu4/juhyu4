@@ -35,6 +35,6 @@
 
 ## Projetos
 
-Biblioteca de projetos em análise no momento, mas pode acessar alguns repositórios do perfil caso queira ver o código fonte
+Biblioteca de projetos em análise no momento, mas pode acessar alguns repositórios do perfil.
 
  <img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
