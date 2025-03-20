@@ -37,7 +37,7 @@
 - Certificados no Linkedin, Site (Em manutenção), Github(Em manutenção).
 
  <a href="https://www.linkedin.com/in/julyana-torres-26058523a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julyana-torres-26058523a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 
 <b> Atualmente no pouco tempo que tenho procuro manter uma dinâmica de estudo diário, focando em meus objetivos pessoais e desenvolvimento profissional</b>
 
