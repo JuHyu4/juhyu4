@@ -8,10 +8,6 @@
     src="https://github-readme-stats.vercel.app/api?username=juhyu4&show_icons=true&locale=en&theme=radical&hide_border=true"
     alt="juhyu4"/>
 
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=juhyu4&theme=radical&hide_border=true"
-    alt="juhyu4"/>
    </div>
     
 
