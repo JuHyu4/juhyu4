@@ -1,18 +1,6 @@
 # Bem-vindo(a) à minha jornada
  
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsIS277lZPNdiyPHma3GSPwSb92B3rr7lTCilzSrf6Z3_AGWUQz5L3dTUpd2XU0-BQAOTXYOOIFr-6BsJct5zBWhihhzoGbcLkPMkWUlnikfZKC6OZ4aVbSnTRwvv1-TRCutpsjGQGN24/s1600/kawaii-cute-fofo-anime-gif+%252813%2529.gif">
 
-  <div>
-   
- <img
-    src="https://github-readme-stats.vercel.app/api?username=juhyu4&show_icons=true&locale=en&theme=radical&hide_border=true"
-    alt="juhyu4"/>
-
-   </div>
-    
-
- 
-<br>
 
 ## Sobre mim
 
